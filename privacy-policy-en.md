@@ -47,7 +47,6 @@ We take the following measures to protect personal information:
 ## 9. Privacy Officer
 - Name: Jmath Studio (Representative: Kim Junggu)
 - Email: jmathstudio2026@gmail.com
-- Phone: +82-10-8588-0933
 
 ## 10. Changes to Privacy Policy
 This policy is effective as of January 8, 2026. Updates will be announced through notices.
